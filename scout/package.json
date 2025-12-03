@@ -1,0 +1,8 @@
+{
+    "name": "scout-worker",
+    "version": "1.0.0",
+    "dependencies": {
+      "puppeteer": "^21.0.0",
+      "@supabase/supabase-js": "^2.38.0"
+    }
+  }
